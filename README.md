@@ -14,13 +14,13 @@ Gathering the county-level datasets for the education level datasets is repetiti
 Subsequently, a linear regression was built to predict the measures for 2030 and 2040 in every county in the United States. These predictions, as well as the data gathered from ERS, can be observed in the animations below and interactive plots can be found [here]()
 
 ### Rates of Completing College
-![](/Users/ericbutcher/Education Completeness/gifs/cc.gif)
+![](/gifs/cc.gif)
 
 ### Rates of Some College Completed
-![](/Users/ericbutcher/Education Completeness/gifs/sc.gif)
+![](/gifs/sc.gif)
 
 ### Rates of Completing College Only
-![](/Users/ericbutcher/Education Completeness/gifs/hso.gif)
+![](/gifs/hso.gif)
 
 ### Rates of Not Completing High School
-![](/Users/ericbutcher/Education Completeness/gifs/nchs.gif)
+![](/gifs/nchs.gif)
