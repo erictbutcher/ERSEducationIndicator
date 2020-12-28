@@ -1,7 +1,4 @@
 # USDA ERS Education Indicators
-(Last updated: February 5th, 2020)
-
-## Summary
 
 Socioeconomic indicators like poverty rates, population change, unemployment rates, and education levels vary geographically across U.S. States and counties. ERS compiles the latest data on these measures and provides maps and data display/download for States and counties.
 
