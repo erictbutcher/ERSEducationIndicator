@@ -16,7 +16,7 @@ Subsequently, a linear regression was built to predict the measures for 2030 and
 ### Rates of Some College Completed
 ![](/gifs/sc.gif)
 
-### Rates of Completing College Only
+### Rates of Completing High School Only
 ![](/gifs/hso.gif)
 
 ### Rates of Not Completing High School
